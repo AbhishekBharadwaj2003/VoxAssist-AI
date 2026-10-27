@@ -1,0 +1,79 @@
+# ShopEase Customer Support Policies
+
+Note: ShopEase is a fictional company created for the VoxAssist AI demonstration project. These policies are sample data, not the policies of a real company.
+
+## 1. Shipping and Delivery
+
+ShopEase offers standard shipping with an estimated delivery time of 3–5 business days after dispatch.
+
+Express shipping is estimated to take 1–2 business days after dispatch.
+
+Delivery estimates are not guaranteed and may be affected by weather, holidays, or courier delays.
+
+Customers receive a tracking number after their orders are dispatched.
+
+## 2. Returns
+
+Customers can request a return within 7 calendar days of delivery.
+
+Items must be unused, undamaged, and returned with their original packaging and included accessories.
+
+Some items may be ineligible for return for hygiene or safety reasons. The eligibility of a specific product must be confirmed by customer support.
+
+Customers should contact support with their order ID to initiate a return.
+
+## 3. Refunds
+
+Refunds are processed after the returned item has been received and inspected.
+
+Once approved, refunds are generally initiated within 5–7 business days.
+
+The time taken for the money to appear in a customer's account may depend on their bank or payment provider.
+
+If a refund has not arrived after the expected processing period, customers should contact support with their order ID.
+
+## 4. Order Cancellation
+
+Customers may request cancellation before their order is dispatched.
+
+Orders that have already been dispatched may not be cancellable through the standard cancellation process.
+
+Customers should contact support with their order ID to check cancellation eligibility.
+
+A cancellation request is not considered confirmed until the company verifies it.
+
+## 5. Payment Methods
+
+ShopEase accepts credit cards, debit cards, and supported UPI payment methods.
+
+Payment availability may vary depending on the customer's location and payment provider.
+
+If a payment fails, customers should verify their payment details and check whether their bank or payment provider reported a failed transaction.
+
+Customers should not share their passwords, PINs, or OTPs with customer support.
+
+## 6. Order Tracking
+
+Customers can track an order using the tracking number provided after dispatch.
+
+If tracking information is unavailable immediately after dispatch, customers should allow up to 24 hours for the courier system to update.
+
+If tracking remains unavailable after 24 hours, customers should contact support with their order ID.
+
+VoxAssist must not invent tracking numbers, order statuses, or delivery dates.
+
+## 7. Damaged or Incorrect Items
+
+Customers who receive a damaged or incorrect item should contact support with their order ID and a description of the problem.
+
+Photographs may be requested to help verify the issue.
+
+Replacement or refund eligibility must be confirmed by customer support. VoxAssist must not promise a replacement or refund before approval.
+
+## 8. Human Support
+
+Customers may request a human support representative at any time.
+
+Issues involving disputed payments, exceptions to return policies, unconfirmed refunds, and complex order problems should be escalated to human support when the knowledge base does not provide a definitive answer.
+
+VoxAssist must clearly explain when it cannot verify information or complete an action.
