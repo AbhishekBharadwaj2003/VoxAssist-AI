@@ -76,6 +76,12 @@ VoxAssist-AI/
 │   └── company_faqs.txt
 ├── rag/
 │   └── knowledge_base.py
+├── screenshots/
+│   ├── 01-customer-support-home.png
+│   ├── 02-voice-input-and-chat.png
+│   ├── 03-ai-response-and-tts.png
+│   ├── 04-support-analytics.png
+│   └── 05-about-voxassist.png
 ├── voice/
 │   ├── speech_to_text.py
 │   └── text_to_speech.py
