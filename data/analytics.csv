@@ -1,5 +1,0 @@
-timestamp,question,channel,response_time_seconds,topic,escalated
-2026-10-27T03:13:16,How long does delivery take?,text,1.8,Shipping,False
-2026-10-27T03:15:38,How long does delivery take?,text,1.567,Shipping,False
-2026-10-27T03:16:08,What is your refund policy?,text,1.211,Refunds,False
-2026-10-27T03:16:18,Can I return a product?,text,1.307,Returns,False
