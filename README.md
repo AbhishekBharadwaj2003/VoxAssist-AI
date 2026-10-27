@@ -16,6 +16,33 @@ VoxAssist AI is a Streamlit application that lets users ask customer-support que
 - **Interaction analytics** logging channel, response time, topic, and an escalation flag.
 - **Analytics dashboard** with KPIs, date filtering, channel distribution, common topics, daily trends, and recent interactions.
 
+## Application screenshots
+
+### 1. Customer Support Dashboard
+The main interface, including workspace navigation, system status, and customer-support chat.
+
+![VoxAssist AI Customer Support Dashboard](screenshots/01-customer-support-home.png)
+
+### 2. Voice Input and Conversation
+Record a customer question, transcribe speech into text, and continue the conversation with context.
+
+![Voice Input and Conversation](screenshots/02-voice-input-and-chat.png)
+
+### 3. AI Response and Text-to-Speech
+View an AI-generated answer grounded in the ShopEase FAQ knowledge base and play the spoken response.
+
+![AI Response and Text-to-Speech](screenshots/03-ai-response-and-tts.png)
+
+### 4. Support Analytics
+Review interaction counts, text and voice usage, average response time, escalation flags, and support-topic charts.
+
+![VoxAssist AI Support Analytics](screenshots/04-support-analytics.png)
+
+### 5. About VoxAssist AI
+An overview of the project's capabilities and technology stack.
+
+![About VoxAssist AI](screenshots/05-about-voxassist.png)
+
 ## Architecture
 
 1. User submits a text question or records a voice question.
